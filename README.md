@@ -6,13 +6,12 @@ The system is designed to help manage agricultural shop or agriculture-related b
 
 ---
 
-
+<img width="1196" height="794" alt="485139122_1319972422625935_6339897589381013021_n" src="https://github.com/user-attachments/assets/8d33d8c1-594a-46c1-ad58-51af3e764f80" />
 <img width="1197" height="795" alt="484975846_1319972609292583_9019178595301605606_n" src="https://github.com/user-attachments/assets/391c492b-0eaf-4983-85a9-867bae7a146d" />
 <img width="1125" height="704" alt="485173299_1319972529292591_7986011618825634334_n" src="https://github.com/user-attachments/assets/aa589733-b7f1-48f6-bec6-101a4befc4df" />
 <img width="989" height="636" alt="485405450_1319972639292580_4994157124712211392_n" src="https://github.com/user-attachments/assets/c3fbc1f7-a37c-47d1-be30-75e9769f1228" />
 <img width="1244" height="803" alt="484075057_1319972432625934_3652536697265526155_n" src="https://github.com/user-attachments/assets/42de2811-6939-46cb-a56d-fae37cc5d981" />
 <img width="1198" height="796" alt="484521129_1319972475959263_2021276092908870595_n" src="https://github.com/user-attachments/assets/511c2c26-037d-4fb9-acb3-86aa00957fdc" />
-<img width="1196" height="794" alt="485139122_1319972422625935_6339897589381013021_n" src="https://github.com/user-attachments/assets/8d33d8c1-594a-46c1-ad58-51af3e764f80" />
 <img width="1196" height="792" alt="484333082_1319972629292581_6045043701210498795_n" src="https://github.com/user-attachments/assets/d278b940-6478-4cf1-bcf6-c93b86f2dac7" />
 <img width="1197" height="796" alt="484959827_1319972522625925_3292710011128768865_n" src="https://github.com/user-attachments/assets/d4c50c2e-f795-4a6a-b16b-680e66e1d0d7" />
 <img width="1193" height="794" alt="484066468_1319972615959249_5040544377936083913_n" src="https://github.com/user-attachments/assets/9b9290c9-1139-4e66-8990-90984daf556f" />
